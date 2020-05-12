@@ -1,0 +1,26 @@
+{
+  "name": "butgettracker",
+  "version": "1.0.0",
+  "description": "Description:",
+  "main": "server.js",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.9.13",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greiven/budget-tracker.git"
+  },
+  "author": "Greiven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greiven/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/greiven/budget-tracker#readme"
+}
