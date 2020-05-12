@@ -2,7 +2,7 @@
 
 Description:
 
-A Progressive web application which can be ran online/offline, downloaded as an app, and uses service workers
+A Progressive web application which can be ran online/offline, downloaded as an app, and uses service workers.
 
 Installation:
 
